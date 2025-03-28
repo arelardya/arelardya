@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm rel!</h1>
 <h3 align="center">Someone that fell in this realm-</h3>
 
+![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRoOTN2dW53aXdpaTE5b3BoNXg0ZWs5dXBxcjN3aTIzbnFicnVmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif))
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arelardya&label=Profile%20views&color=0e75b6&style=flat" alt="arelardya" /> </p>
 
 <h3 align="left">Connect with me:</h3>
